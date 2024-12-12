@@ -1,0 +1,18 @@
+.subCategoryBox {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: end;
+  padding: 0 20px;
+
+}
+.subCategoryItemBox {
+  width: 134px;
+  height: 30px;
+  display: flex;
+  font-size: 17px;
+  border: none;
+  /* border-bottom: ; */
+   background-color: transparent;
+  justify-content: center; 
+}
